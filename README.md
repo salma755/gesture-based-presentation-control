@@ -11,6 +11,7 @@ The project integrates computer vision, feature extraction, and machine learning
 
 ## Project Team
 - Salma Alleimon
+  
 Developed collaboratively with:
 - Dina Al-Shamayleh
 - Sofyan Al-Tarawneh
