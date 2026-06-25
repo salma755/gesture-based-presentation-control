@@ -10,7 +10,7 @@ The project integrates computer vision, feature extraction, and machine learning
 <img width="667" height="308" alt="Screenshot 2026-06-25 035721" src="https://github.com/user-attachments/assets/f76b1935-1271-40fe-be7a-7e7f2465247b" />
 
 ## Project Team
-
+- Salma Alleimon
 Developed collaboratively with:
 - Dina Al-Shamayleh
 - Sofyan Al-Tarawneh
