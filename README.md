@@ -5,6 +5,8 @@ Hand gesture recognition system using MediaPipe and machine learning to control 
 A final project developed for the Pattern Recognition course. The system uses hand gesture recognition to classify predefined gestures and control presentation slides in real time.
 
 The project integrates computer vision, feature extraction, and machine learning to build an interactive human-computer interface.
+
+
 <img width="667" height="308" alt="Screenshot 2026-06-25 035721" src="https://github.com/user-attachments/assets/f76b1935-1271-40fe-be7a-7e7f2465247b" />
 
 ## Project Team
